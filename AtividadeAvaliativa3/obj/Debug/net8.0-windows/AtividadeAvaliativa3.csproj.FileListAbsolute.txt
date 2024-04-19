@@ -1,0 +1,17 @@
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\AtividadeAvaliativa3.Form1.resources
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\AtividadeAvaliativa3.csproj.GenerateResource.cache
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\AtividadeAvaliativa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\AtividadeAvaliativa3.AssemblyInfoInputs.cache
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\AtividadeAvaliativa3.AssemblyInfo.cs
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\AtividadeAvaliativa3.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\bin\Debug\net8.0-windows\AtividadeAvaliativa3.exe
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\bin\Debug\net8.0-windows\AtividadeAvaliativa3.deps.json
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\bin\Debug\net8.0-windows\AtividadeAvaliativa3.runtimeconfig.json
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\bin\Debug\net8.0-windows\AtividadeAvaliativa3.dll
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\bin\Debug\net8.0-windows\AtividadeAvaliativa3.pdb
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\ContadorCliques.Program.resources
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\AtividadeAvaliativa3.dll
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\refint\AtividadeAvaliativa3.dll
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\AtividadeAvaliativa3.pdb
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\AtividadeAvaliativa3.genruntimeconfig.cache
+C:\Users\vinicius.guimaraes\source\repos\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\net8.0-windows\ref\AtividadeAvaliativa3.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AtividadeAvaliativa3/1.0.0": {
+        "runtime": {
+          "AtividadeAvaliativa3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtividadeAvaliativa3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
