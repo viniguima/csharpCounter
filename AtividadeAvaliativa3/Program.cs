@@ -32,9 +32,34 @@ namespace ContadorCliques
 
         private void btnMais_Click(object sender, EventArgs e)
         {
-            contadorCliques++;
-            AtualizarContadorCliques();
+            if (contadorCliques < 10)
+            {
+                contadorCliques++;
+                AtualizarContadorCliques();
+
+                if (contadorCliques == 7)
+                {
+                    MessageBox.Show("Faltam apenas mais 3");
+                }
+                else if (contadorCliques == 8)
+                {
+                    MessageBox.Show("Faltam apenas mais 2");
+                }
+                else if (contadorCliques == 9)
+                {
+                    MessageBox.Show("Falta apenas mais 1");
+                }
+                else if (contadorCliques == 10)
+                {
+                    MessageBox.Show("Acabou !");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Já atingiu o máximo de 10 contagens.");
+            }
         }
+
 
         private void btnMenos_Click(object sender, EventArgs e)
         {

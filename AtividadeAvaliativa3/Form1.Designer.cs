@@ -64,7 +64,7 @@
             this.labelNomeAluno.Name = "labelNomeAluno";
             this.labelNomeAluno.Size = new System.Drawing.Size(92, 16);
             this.labelNomeAluno.TabIndex = 4;
-            this.labelNomeAluno.Text = "Nome Aluno: Vinícius Alexandre Franco ";
+            this.labelNomeAluno.Text = "Nome Aluno: Vinícius Alexandre Franco";
          
 
             this.labelRAAluno.AutoSize = true;
